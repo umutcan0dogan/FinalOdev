@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yemek Tariflerim</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="activity_title_home">Tarifler</string>
+    <string name="msg_no_notes">Henüz yeni tarif eklemedin.</string>
+    <string name="lbl_new_note_title">Tarif Ekle</string>
+    <string name="lbl_edit_note_title">Tarifi Düzenle</string>
+    <string name="hint_enter_note">Yeni tarifini gir</string>
+</resources>
